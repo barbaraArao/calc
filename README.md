@@ -1,9 +1,5 @@
 # calc
 
-This project is available online at:
-
-🚀 [https://calc-production-6451.up.railway.app/q/swagger-ui](https://calc-production-6451.up.railway.app/q/swagger-ui)
-
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
